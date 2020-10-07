@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Go to [Egalicon website](http://egalicon.com) to learn more about the game.
+Here translations for all languages will be managed as well as interface for writing custom engine.
